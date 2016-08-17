@@ -1,4 +1,3 @@
-layout_spectrum: 0.2027983251027763
 typography_spectrum: 0.38139877445064485
 color:
   brandStrength: 0.579384301090613
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.2027983251027763
 name: 'Madeleine Hardus, Ph.D.'
+title: merda
